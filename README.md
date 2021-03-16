@@ -1,6 +1,12 @@
 # Big-Scale Analytics
 This is the repository of group Omega for the BSA project. We will upload further documentation in the future.
 
+###Team Members
+Osman Gokturk
+Bryan Lam
+Thomas Okoro
+
+
 ## Milestone 1
 ### Literature Review, Methodology
 
